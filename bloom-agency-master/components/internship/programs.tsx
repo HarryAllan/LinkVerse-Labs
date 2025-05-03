@@ -112,7 +112,7 @@ function InternshipPrograms() {
 												</div>
 											))}
 										</div>
-										<Link href='/apply'>
+										<Link href='https://docs.google.com/forms/d/e/1FAIpQLSf2OofMMSV9xomlwQPMVAN5FJzivF3jML5QYN_mYYcYYVuC9Q/viewform?usp=header' target="_blank">
 											<button
 												className={`w-full py-2 px-4 rounded-md					border border-input bg-background hover:bg-accent hover:text-accent-foreground  group-hover:bg-primary group-hover:text-primary-foreground transition-all duration-300`}
 											>
