@@ -57,7 +57,7 @@ const InternshipHero = () => {
 							animate={{ opacity: 1, y: 0 }}
 							transition={{ duration: 0.6, delay: 0.5 }}
 						>
-							<a href='/internship#programs' className='bg-primary text-white px-8 py-3 rounded-md text-lg font-medium hover:bg-primary/90 transition-colors'>
+							<a href='https://docs.google.com/forms/d/e/1FAIpQLSf2OofMMSV9xomlwQPMVAN5FJzivF3jML5QYN_mYYcYYVuC9Q/viewform?usp=header' target="_blank" className='bg-primary text-white px-8 py-3 rounded-md text-lg font-medium hover:bg-primary/90 transition-colors'>
 								Apply Now
 							</a>
 						</motion.div>
